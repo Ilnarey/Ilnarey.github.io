@@ -18,11 +18,11 @@
         <a href="#" class="b0 col-4" >PiPiLaPu</a>
         <a href="#" class="b1 col-1">Главное</a>
         <a href="#" class="b3 col-1">Корзина</a>
-        <a href="http://ilnara/profil.html" class="b4 col-1">Профиль</a>
+        <a href="file:///D:/VisualStudio/РПИ/start-clean/profil.html" class="b4 col-1">Профиль</a>
       </div>
       <div class="container-menu col-2">  
-        <a href="http://ilnara/Регистрация.htm" class="badge badge-pill badge-primary ">Регистрация</a>
-        <a href="http://ilnara/Вход.html" class="badge badge-pill badge-secondary ">Вход</a>
+        <a href="file:///D:/VisualStudio/РПИ/start-clean/Регистрация.html" class="badge badge-pill badge-primary ">Регистрация</a>
+        <a href="file:///D:/VisualStudio/РПИ/start-clean/Вход.html" class="badge badge-pill badge-secondary ">Вход</a>
       </div>
         </div>
     </header>
